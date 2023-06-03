@@ -1,4 +1,4 @@
-simple **CV Builder** project in Python
+Simple **CV Builder** project in Python
 
 made with bacis python functions that any begginer can understand code sturcture easily
 
